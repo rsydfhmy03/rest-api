@@ -5,4 +5,4 @@ let mhs = {
 
 }
 
-console.log(mhs);
+console.log(JSON.stringify(mhs));

@@ -1,16 +1,32 @@
-{
-    "nama" : "Fahmy",
-    "umur" : 19,
-    "nim" : "e41212254",
-    "lulus" : false,
-    "hobby" : [
-        "gaming",
-        "rebahan",
-        "coding"
-    ],
-    "excited study" :{
-        "study1" : "Sains",
-        "study2" : "Information Technology"
+[
+    {
+        "nama" : "Fahmy",
+        "umur" : 19,
+        "nim" : "e41212254",
+        "lulus" : false,
+        "hobby" : [
+            "gaming",
+            "rebahan",
+            "coding"
+        ],
+        "excited study" :{
+            "study1" : "Sains",
+            "study2" : "Information Technology"
+        }
+    },
+    {
+        "nama" : "Danu rifkana hakim",
+        "umur" : 19,
+        "nim" : "e41219913",
+        "lulus" : false,
+        "hobby" : [
+            "coding",
+            "rebahan",
+            "coding"
+        ],
+        "excited study" :{
+            "study1" : "Sains",
+            "study2" : "Information Technology"
+        }
     }
-
-}
+]

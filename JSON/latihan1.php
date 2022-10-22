@@ -1,5 +1,4 @@
 <?php
-
 // $mahasiswa = [
 //     [
 //     "nama" => "Fahmy rosyadi",

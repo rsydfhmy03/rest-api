@@ -6,7 +6,7 @@ $mahasiswa = [
     "email" => "fahmyrosyadi29@gmail.com"
 ];
 
-//ini pasti bentuknya array
-var_dump($mahasiswa);
+$data = json_encode($mahasiswa);
+echo $data
 
 ?>
